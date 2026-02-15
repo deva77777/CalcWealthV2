@@ -1,0 +1,11 @@
+# CalcWealth ads.txt
+# Authorized Digital Sellers for calcwealth.finance
+# 
+# IMPORTANT: Replace YOUR_PUBLISHER_ID with your actual Google AdSense Publisher ID
+# after AdSense approval. Format: pub-XXXXXXXXXXXXXXXX
+#
+# Uncomment the line below and add your Publisher ID once approved:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# This file will be updated after Google AdSense approval.
+# For more information: https://support.google.com/adsense/answer/7532444
